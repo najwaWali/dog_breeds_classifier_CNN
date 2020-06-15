@@ -12,7 +12,7 @@ The overall flow consists of the following steps:
 6. Write your Algorithm
 7. Test Your Algorithm
 
-Detailed report can be found in [the notebook](https://github.com/najwaWali/dog_breeds_classifier_CNN/blob/master/dog_app.ipynb).
+Detailed report is found in [the notebook](https://github.com/najwaWali/dog_breeds_classifier_CNN/blob/master/dog_app.ipynb).
 
 ### Dataset
 - Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in this project's home directory, at the location `/dogImages`.
