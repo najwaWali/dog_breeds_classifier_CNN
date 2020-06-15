@@ -19,7 +19,7 @@ feel free to use the notebook to improve or re-train the model.
 - Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in this project's home directory, at the location `/dogImages`.
 - Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the home diretcory, at location `/lfw`.
 
-Note: make sure to put the correct path when you load the files. If you place them in the project's home directory, make sure to change the path name in the code before you load the data
+Note: make sure to put the correct path when you load the files. If you place them in the project's home directory, change the path name in the code before you load the data
 
 ```python
 # load filenames for human and dog images
