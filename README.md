@@ -26,6 +26,8 @@ human_files = np.array(glob("lfw/*/*"))
 dog_files = np.array(glob("dogImages/*/*/*"))
 ```
 
+feel free to use the given notebook to improve or re-train the model.
+
 ### Enviroment 
 
 - Python 3.7+ 
