@@ -13,6 +13,7 @@ The overall flow consists of the following steps:
 7. Test Your Algorithm
 
 Detailed report is found in [the notebook](https://github.com/najwaWali/dog_breeds_classifier_CNN/blob/master/dog_app.ipynb).
+feel free to use the given notebook to improve or re-train the model.
 
 ### Dataset
 - Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in this project's home directory, at the location `/dogImages`.
@@ -25,8 +26,6 @@ Note: make sure to put the correct path when you load the files. If you place th
 human_files = np.array(glob("lfw/*/*"))
 dog_files = np.array(glob("dogImages/*/*/*"))
 ```
-
-feel free to use the given notebook to improve or re-train the model.
 
 ### Enviroment 
 
